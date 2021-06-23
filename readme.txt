@@ -1,2 +1,2 @@
 gitis
-git
+git is free sofrware.
